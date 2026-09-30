@@ -1,0 +1,12 @@
+{
+  "name": "js-core-omarov",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lab 4 — JavaScript core: functions, closures, classes, unit tests",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0"
+  }
+}
